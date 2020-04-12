@@ -14,13 +14,18 @@
 
 ## Установка
 
-### Регистрация Google аккаунта для [Youtube](https://www.youtube.com)
-Если у вас уже есть Google аккаунт, то зайдите на https://www.youtube.com и нажмите кнопку "Войти" в правом верхнем углу.
+### Регистрация Google аккаунта для Youtube
+Если у вас уже есть Google аккаунт, то можете сразу переходить к следующему шагу Активация прямых трансляций Youtube.
+
+#### Создание аккаунта
+Зайдите на https://www.youtube.com и нажмите кнопку "Войти" в правом верхнем углу.
+
+#### Вход в аккант
 Если у вас еще нет Google аккаунта, то зайдите на https://www.youtube.com и нажмите кнопку "Войти" в правом верхнем углу.
 
-### Активация прямых трансляций [Youtube](https://www.youtube.com)
+### Активация прямых трансляций Youtube
 
 [Youtube](https://www.youtube.com) рассматривает заявку на прямой
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjY5ODE0MiwtNTY4MDYzODU3XX0=
+eyJoaXN0b3J5IjpbMTk1NTc5NDk1NywtNTY4MDYzODU3XX0=
 -->
