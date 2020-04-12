@@ -11,6 +11,7 @@
 * Качество трансляции будет зависеть от производительности вашего компьютера и скорости вашего интернета.
 * Продолжительность трансляции не более 12 часов (в случае, если вы хотите ее сохранить).
 * Максимальное количество зрителей не рассматривается как ограничение, так как [Youtube](https://www.youtube.com) нигде его не упоминает.
+* Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 ## Установка
 
@@ -29,7 +30,7 @@
 
 ### Установка программы  [Open Broadcaster Software](https://obsproject.com)
 
-Зайдите на сайт [Open Broadcaster Software](https://obsproject.com)
+Зайдите на сайт [Open Broadcaster Software](https://obsproject.com) и нажмите на кнопку соответствующую операционной системе на вашем компьютере: Windows, MacOS или Linux. После этого пройдите 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU3MTgyNjQsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbLTE0OTg0MDQ5MjgsLTU2ODA2Mzg1N119
 -->
