@@ -7,6 +7,8 @@
   * [Регистрация Youtube аккаунта](#youtube_signup)
   * [Активация прямых трансляций Youtube](#youtube_activate)
   * [Установка программы Open Broadcaster Software](#obs_install)
+* [Запуск трансляции](#stream)
+* [Вопросы и ответы](#faq)
 
 ### Сколько это стоит?
 Благодаря программе [Open Broadcaster Software](https://obsproject.com) с открытым кодом и бесплатному сервису трансляций [Youtube](https://www.youtube.com), для вас это бесплатно (за исключением стоимости компьютера с камерой и микрофоном, а также расходов на интернет).
@@ -40,6 +42,12 @@
 ### Установка программы  [Open Broadcaster Software](https://obsproject.com)
 
 Зайдите на сайт [Open Broadcaster Software](https://obsproject.com) и нажмите на кнопку соответствующую операционной системе на вашем компьютере: Windows, MacOS или Linux. Это запустим скачивание программы. Затем, установите программу, откройте программу и дайте ей доступ к камере и микрофону.
+
+<a name="stream"></a>
+## Запуск трансляции
+
+<a name="faq"></a>
+## Вопросы и ответы
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQyNjU4OTYsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbMjAxOTQ1MjE1OCwtNTY4MDYzODU3XX0=
 -->
