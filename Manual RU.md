@@ -30,7 +30,7 @@
 
 ### Установка программы  [Open Broadcaster Software](https://obsproject.com)
 
-Зайдите на сайт [Open Broadcaster Software](https://obsproject.com) и нажмите на кнопку соответствующую операционной системе на вашем компьютере: Windows, MacOS или Linux. После этого пройдите 
+Зайдите на сайт [Open Broadcaster Software](https://obsproject.com) и нажмите на кнопку соответствующую операционной системе на вашем компьютере: Windows, MacOS или Linux. Это запустим скачивание программы. Затем, установите программу, откройте программу и дайте ей доступ к камере и микрофону.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTg0MDQ5MjgsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbLTEzNzQ2NDU0NzQsLTU2ODA2Mzg1N119
 -->
