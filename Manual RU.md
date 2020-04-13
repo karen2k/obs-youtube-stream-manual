@@ -68,7 +68,9 @@
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 * В разделе "Источники" / "Sources" в нижней части окна программы нажмите на кнопку "+"
-* Выберите "Слайдшоу изображений" / "Video capture device" из выпадающего списка
+* Выберите "Слайдшоу изображений" / "Image Slideshow" из выпадающего списка
+* В появившемся окне выберите изображения, настройте слайдшоу по вашему вкусу и нажмите "Ок" / "Ok"
+* Растяните слайдшоу на весь экран, чтобы 
 
 ### Настройка видео камеры
 
@@ -96,6 +98,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTY0NjczMSwtMTc3OTA0MjcwOCwtMT
-E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbLTE4OTc3MzIyMjQsLTE3NzkwNDI3MDgsLT
+ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
