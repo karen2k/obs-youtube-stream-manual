@@ -11,7 +11,7 @@
 	* [Настройка YouTube](#prepare_youtube)
 	* [Настройка программы Open Broadcaster Software](#prepare_obs)
 	* [Настройка фона трансляции](#prepare_background)
-	* [Показ статистики игры в трансляции](#prepare_stats)
+	* [Показ статистики игры в трансляции](#prepare_game_stats)
 	* [Настройка видео камеры](#prepare_cam)
 * [Запуск трансляции](#start)
 	* [YouTube](#start_youtube)
@@ -168,7 +168,7 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDI2ODAyLDIwMzA2MTYyNjksLTE3Nz
-kwNDI3MDgsLTExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4
-NTddfQ==
+eyJoaXN0b3J5IjpbLTIwOTU5MTg3MSwyMDMwNjE2MjY5LC0xNz
+c5MDQyNzA4LC0xMTc4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYz
+ODU3XX0=
 -->
