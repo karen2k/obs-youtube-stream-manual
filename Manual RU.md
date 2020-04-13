@@ -124,6 +124,11 @@
 
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
 * В поле "Конфиденциальность" (раздел "Основная Информация") выберите "Ограниченный доступ", чтобы никто кроме вас не имел доступа к трансляции.
+* Зайдите в раздел ["Мои видео"](https://www.youtube.com/feed/my_videos)
+* Нажмите на ранее записанное видео
+* Нажмите на синюю кнопку "Изменить видео"
+* Нажмите на три точки справа от серой кнопки "Сохранить"
+* Нажмите на "Удалить"
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -141,6 +146,7 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDYxNjI2OSwtMTc3OTA0MjcwOCwtMT
-E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbMTEwODU0MjYyNCwyMDMwNjE2MjY5LC0xNz
+c5MDQyNzA4LC0xMTc4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYz
+ODU3XX0=
 -->
