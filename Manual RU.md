@@ -38,6 +38,13 @@
 <a name="stream"></a>
 ## Запуск трансляции
 
+### Перед запуском
+
+Не забудьте настроить трансляцию:
+* Название: Детектив Сейнт-Твинс в г. ХХХХ, дело №X
+* Описание: на ваше усмотрение
+* Категория: Развлеч
+
 <a name="faq"></a>
 ## Вопросы и ответы
 
@@ -54,5 +61,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbMTA0MjA3NDc0NiwxOTY2NDEwMDgsLTU2OD
+A2Mzg1N119
 -->
