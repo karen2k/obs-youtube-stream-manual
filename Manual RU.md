@@ -64,6 +64,12 @@
 * Вставьте скопированный на YouTube ключ трансляции в поле "Ключ трансляции" / "Stream Key"
 * Сохраните настрйоки, нажав на кнопку "Ок" / "Ok" в правом нижнем углу
 
+### Настройка фона трансляции
+
+* Откройте программу Open Broadcaster Software, которую вы установили ранее
+* В разделе "Источники" / "Sources" в нижней части окна программы нажмите на кнопку "+"
+* Выберите "Слайдшоу изображений" / "Video capture device" из выпадающего списка
+
 ### Настройка видео камеры
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
@@ -90,6 +96,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkwNDI3MDgsLTExNzg2MTE3NjIsMT
-k2NjQxMDA4LC01NjgwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbLTY3MTY0NjczMSwtMTc3OTA0MjcwOCwtMT
+E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
 -->
