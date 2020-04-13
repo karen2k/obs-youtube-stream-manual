@@ -8,17 +8,17 @@
   * [Активация прямых трансляций YouTube](#youtube_activate)
   * [Установка программы Open Broadcaster Software](#obs_install)
 * [Подготовка к трансляции](#prepare)
-	* [Настройка YouTube](#)
-	* [Настройка программы Open Broadcaster Software](#)
-	* [Настройка фона трансляции](#)
-	* [Показ статистики игры в трансляции](#)
-	* [Настройка видео камеры](#)
-* [Запуск трансляции](#)
-	* [YouTube](#)
-	* [Open Broadcaster Software](#)
-* [После трансляции](#)
-	* [YouTube](#)
-	* [Open Broadcaster Software](#)
+	* [Настройка YouTube](#prepare_youtube)
+	* [Настройка программы Open Broadcaster Software](#prepare_obs)
+	* [Настройка фона трансляции](#prepare_background)
+	* [Показ статистики игры в трансляции](#prepare_stats)
+	* [Настройка видео камеры](#prepare_cam)
+* [Запуск трансляции](#start)
+	* [YouTube](#start_youtube)
+	* [Open Broadcaster Software](#start_obs)
+* [После трансляции](#stop)
+	* [YouTube](#stop_youtube)
+	* [Open Broadcaster Software](#stop_obs)
 * [Вопросы и ответы](#faq)
 	* [Сколько это стоит?](#faq_price)
 	* [Какие известные ограничения?](#faq_limitations)
@@ -115,9 +115,10 @@
 * Нажмите "Ок" / "Ok"
 * В основном окне программы вы должны видеть изображение с камеры. Растяните и переместите изображение на ваш вкус, используя красные квадраты по углам изображения.
 
-<a name="prepare"></a>
+<a name="start"></a>
 ## Запуск трансляции
 
+<a name="start_youtube"></a>
 ### YouTube
 
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
@@ -125,18 +126,22 @@
 * Скопируйте ссылку на трансляцию в правом нижнем углу страницы в разделе "Поделиться"
 * Передайте ссылку на трансляцию своим зрителям
 
+<a name="start_obs"></a>
 ### Open Broadcaster Software
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 * Нажмите кнопку "Начать Трансляцию" / "Start Streaming" в правом нижнем углу экрана
 
+<a name="stop"></a>
 ## После трансляции
 
+<a name="stop_obs"></a>
 ### Open Broadcaster Software
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 * Нажмите кнопку "Остановить Трансляцию" / "Stop Streaming" в правом нижнем углу экрана
 
+<a name="stop_youtube"></a>
 ### YouTube
 
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
@@ -163,7 +168,7 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA1NTQwOTcsMjAzMDYxNjI2OSwtMT
-c3OTA0MjcwOCwtMTE3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2
-Mzg1N119
+eyJoaXN0b3J5IjpbMTk5MDI2ODAyLDIwMzA2MTYyNjksLTE3Nz
+kwNDI3MDgsLTExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4
+NTddfQ==
 -->
