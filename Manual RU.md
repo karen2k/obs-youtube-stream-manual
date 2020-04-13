@@ -52,8 +52,11 @@
 * Откройте программу Open Broadcaster Software, которую вы установили райнее
 * В нижнем правом углу нажмите на кнопку "Настройки" / "Settings"
 * В левом меню выберите раздел "Трансляция" / "Stream"
-* Выберите "YouTube / YouTube Gaming" в поле Серв
+* Выберите "YouTube / YouTube Gaming" в поле "Сервис" / "Service"
 * Вставьте скопированный на YouTube ключ трансляции в поле "Ключ трансляции" / "Stream Key"
+* Сохраните настрйоки, нажав на кнопку "Ок" / "Ok" в правом нижнем углу
+
+### Н
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -71,6 +74,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMwNzc4NzQsMTk2NjQxMDA4LC01Nj
-gwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbLTI3NjA2ODcxMCwxOTY2NDEwMDgsLTU2OD
+A2Mzg1N119
 -->
