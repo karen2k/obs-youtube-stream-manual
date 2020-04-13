@@ -9,6 +9,16 @@
   * [Установка программы Open Broadcaster Software](#obs_install)
 * [Подготовка к трансляции](#prepare)
 	* [Настройка YouTube](#)
+	* [Настройка программы Open Broadcaster Software](#)
+	* [Настройка фона трансляции](#)
+	* [Показ статистики игры в трансляции](#)
+	* [Настройка видео камеры](#)
+* [Запуск трансляции](#)
+	* [YouTube](#)
+	* [Open Broadcaster Software](#)
+* [После трансляции](#)
+	* [YouTube](#)
+	* [Open Broadcaster Software](#)
 * [Вопросы и ответы](#faq)
 	* [Сколько это стоит?](#faq_price)
 	* [Какие известные ограничения?](#faq_limitations)
@@ -147,7 +157,7 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAyMTgwOSwyMDMwNjE2MjY5LC0xNz
-c5MDQyNzA4LC0xMTc4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYz
-ODU3XX0=
+eyJoaXN0b3J5IjpbLTIwNDgxMzAxNTYsMjAzMDYxNjI2OSwtMT
+c3OTA0MjcwOCwtMTE3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2
+Mzg1N119
 -->
