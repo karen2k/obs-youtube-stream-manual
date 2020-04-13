@@ -105,6 +105,10 @@
 * 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 
+## После трансляции
+
+* Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
+* 
 <a name="faq"></a>
 ## Вопросы и ответы
 
@@ -121,6 +125,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NTI5NjE1LC0xNzc5MDQyNzA4LC0xMT
-c4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYzODU3XX0=
+eyJoaXN0b3J5IjpbLTExNzc0NDcyMTksLTE3NzkwNDI3MDgsLT
+ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
