@@ -110,12 +110,20 @@
 ### Open Broadcaster Software
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
-* 
+* Нажмите кнопку "Начать Трансляцию" / "Start Streaming" в правом нижнем углу экрана
 
 ## После трансляции
 
+### Open Broadcaster Software
+
+* Откройте программу Open Broadcaster Software, которую вы установили ранее
+* Нажмите кнопку "Остановить Трансляцию" / "Stop Streaming" в правом нижнем углу экрана
+
+### YouTube
+
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
-* 
+* В поле Конфиденциальность выберите "Ограниченный доступ"
+
 <a name="faq"></a>
 ## Вопросы и ответы
 
@@ -132,6 +140,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUzMDcyNzIsLTE3NzkwNDI3MDgsLT
-ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbMzEzNzA0ODEsLTE3NzkwNDI3MDgsLTExNz
+g2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
