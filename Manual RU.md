@@ -101,9 +101,16 @@
 
 ## Запуск трансляции
 
+### YouTube
+
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
-* 
+* Скопируйте ссылку на трансляцию в правом нижнем углу страницы в разделе "Поделиться"
+* Передайте ссылку на трансляцию своим зрителям
+
+### Open Broadcaster Software
+
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
+* 
 
 ## После трансляции
 
@@ -125,6 +132,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc0NDcyMTksLTE3NzkwNDI3MDgsLT
+eyJoaXN0b3J5IjpbLTE5OTUzMDcyNzIsLTE3NzkwNDI3MDgsLT
 ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
