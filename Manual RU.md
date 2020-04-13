@@ -104,6 +104,7 @@
 ### YouTube
 
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
+* В поле "Конфиденциальность" (раздел "Основная Информация") выберите "Доступ по ссылку", чтобы никто кроме вас не имел доступа к трансляции.
 * Скопируйте ссылку на трансляцию в правом нижнем углу страницы в разделе "Поделиться"
 * Передайте ссылку на трансляцию своим зрителям
 
@@ -122,7 +123,7 @@
 ### YouTube
 
 * Откройте панель управления [YouTube](https://www.youtube.com/live_dashboard)
-* В поле Конфиденциальность выберите "Ограниченный доступ"
+* В поле "Конфиденциальность" (раздел "Основная Информация") выберите "Ограниченный доступ", чтобы никто кроме вас не имел доступа к трансляции.
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -140,6 +141,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzNzA0ODEsLTE3NzkwNDI3MDgsLTExNz
-g2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbOTQ4NzM4MDAzLC0xNzc5MDQyNzA4LC0xMT
+c4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYzODU3XX0=
 -->
