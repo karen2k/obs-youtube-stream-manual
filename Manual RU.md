@@ -64,8 +64,9 @@
 * Выберите "YouTube / YouTube Gaming" в поле "Сервис" / "Service"
 * Вставьте скопированный на YouTube ключ трансляции в поле "Ключ трансляции" / "Stream Key"
 * В левом меню выберите раздел "Видео" / "Video"
-* В поле "Базо выводы" / "Base resolution" выберите "852х480" или менее в зависимости от мощности вашего компьютера
-* В поле "Разрешение вывода" / "Output resolution" выберите "852х480" или менее в зависимости от мощности вашего компьютера и скорости вашего интернета.
+* В поле "Базовое разрешение" / "Base resolution" выберите "1280х720" или менее в зависимости от мощности вашего компьютера
+* В поле "Разрешение вывода" / "Output resolution" выберите "852х480" или менее (но не более чем значение в предыдущем поле) в зависимости от мощности вашего компьютера и скорости вашего интернета.
+* В поле "Common FPS Value"
 * Сохраните настрйоки, нажав на кнопку "Ок" / "Ok" в правом нижнем углу
 
 ### Настройка фона трансляции
@@ -112,6 +113,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkxMzI1ODEsLTE3NzkwNDI3MDgsLT
-ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
+eyJoaXN0b3J5IjpbNTUyNTg5OTc1LC0xNzc5MDQyNzA4LC0xMT
+c4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYzODU3XX0=
 -->
