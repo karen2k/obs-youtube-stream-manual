@@ -49,14 +49,19 @@
 
 ### Настройка программы Open Broadcaster Software
 
-* Откройте программу Open Broadcaster Software, которую вы установили райнее
+* Откройте программу Open Broadcaster Software, которую вы установили ранее
 * В нижнем правом углу нажмите на кнопку "Настройки" / "Settings"
 * В левом меню выберите раздел "Трансляция" / "Stream"
 * Выберите "YouTube / YouTube Gaming" в поле "Сервис" / "Service"
 * Вставьте скопированный на YouTube ключ трансляции в поле "Ключ трансляции" / "Stream Key"
 * Сохраните настрйоки, нажав на кнопку "Ок" / "Ok" в правом нижнем углу
 
-### Н
+### Настройка видео камеры
+
+* Откройте программу Open Broadcaster Software, которую вы установили ранее
+* В разделе "Источники" / "Sources" в нижней части окна программы нажмите на кнопку "+"
+* Выберите "Устройство захвата видео" / "Video capture device" из выпадающего списка
+* 
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -74,6 +79,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NjA2ODcxMCwxOTY2NDEwMDgsLTU2OD
-A2Mzg1N119
+eyJoaXN0b3J5IjpbLTg0OTQ3MjU0LDE5NjY0MTAwOCwtNTY4MD
+YzODU3XX0=
 -->
