@@ -7,7 +7,8 @@
   * [Регистрация YouTube аккаунта](#youtube_signup)
   * [Активация прямых трансляций YouTube](#youtube_activate)
   * [Установка программы Open Broadcaster Software](#obs_install)
-* [Запуск трансляции](#stream)
+* [Подготовка к трансляции](#prepare)
+	* [Настройка YouTube](#)
 * [Вопросы и ответы](#faq)
 	* [Сколько это стоит?](#faq_price)
 	* [Какие известные ограничения?](#faq_limitations)
@@ -35,10 +36,10 @@
 
 Зайдите на сайт [Open Broadcaster Software](https://obsproject.com) и нажмите на кнопку соответствующую операционной системе на вашем компьютере: Windows, MacOS или Linux. Это запустим скачивание программы. Затем, установите программу, откройте программу и дайте ей доступ к камере и микрофону.
 
-<a name="stream"></a>
+<a name="prepare"></a>
 ## Подготовка к трансляции
 
-### Перед запуском
+### Настройка YouTube
 
 Не забудьте настроить трансляцию в панели управления [YouTube](https://www.youtube.com/live_dashboard) .
 
@@ -146,7 +147,7 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODU0MjYyNCwyMDMwNjE2MjY5LC0xNz
+eyJoaXN0b3J5IjpbLTIxMTAyMTgwOSwyMDMwNjE2MjY5LC0xNz
 c5MDQyNzA4LC0xMTc4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYz
 ODU3XX0=
 -->
