@@ -47,7 +47,7 @@
 * Название: Детектив Сейнт-Твинс в г. ХХХХ, дело №X
 * Описание: на ваше усмотрение
 * Категория: Развлечения / Хобби и стиль
-* Конфиденциальность: **Доступ по ссылке**
+* Конфиденциальность: Ограниченный доступ
 * Название/ключ трансляции: нажмите  на кнопку "Показать" и скопируйте ключ трансляции. **Никому не сообщайте этот ключ. С его помощью любой пользователь может провести трансляцию на вашем канале.**
 
 #### Закладка "Параметры"
@@ -141,6 +141,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NzM4MDAzLC0xNzc5MDQyNzA4LC0xMT
-c4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYzODU3XX0=
+eyJoaXN0b3J5IjpbMjAzMDYxNjI2OSwtMTc3OTA0MjcwOCwtMT
+E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
 -->
