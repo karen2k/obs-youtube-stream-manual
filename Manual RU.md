@@ -53,7 +53,7 @@
 #### Закладка "Параметры"
 
 * Отключите режим "Включить видеомагнитофон"
-* В
+* Выберите режим "Наименьшая задержка"
 
 ### Настройка программы Open Broadcaster Software
 
@@ -90,6 +90,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTk1NDcwMywtMTE3ODYxMTc2MiwxOT
-Y2NDEwMDgsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbLTE3NzkwNDI3MDgsLTExNzg2MTE3NjIsMT
+k2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
