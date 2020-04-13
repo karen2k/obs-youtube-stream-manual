@@ -166,9 +166,10 @@
 * Продолжительность трансляции не более 12 часов (в случае, если вы хотите ее сохранить).
 * Максимальное количество зрителей не рассматривается как ограничение, так как [YouTube](https://www.youtube.com) нигде его не упоминает.
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
+* Для демонстрации статистики игры желательно подключить второй монитор.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU5MTg3MSwyMDMwNjE2MjY5LC0xNz
-c5MDQyNzA4LC0xMTc4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYz
-ODU3XX0=
+eyJoaXN0b3J5IjpbMTAxMzA0MjMzMiwtMjA5NTkxODcxLDIwMz
+A2MTYyNjksLTE3NzkwNDI3MDgsLTExNzg2MTE3NjIsMTk2NjQx
+MDA4LC01NjgwNjM4NTddfQ==
 -->
