@@ -63,7 +63,9 @@
 * Выберите "Устройство захвата видео" / "Video capture device" из выпадающего списка
 * В появившемся окне дайте произвольное название камере и нажмите "Ок" / "Ok"
 * В появившемся окне выберите нужную камеру в поле "Устройство" / "Device"
-* 
+* Сейчас вы должны видеть изображение из камеры
+* Нажмите "Ок" / "Ok"
+* В основном окне программы
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -81,6 +83,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2MjQ1ODIwLDE5NjY0MTAwOCwtNTY4MD
-YzODU3XX0=
+eyJoaXN0b3J5IjpbLTEzNzgyNDYzMzUsMTk2NjQxMDA4LC01Nj
+gwNjM4NTddfQ==
 -->
