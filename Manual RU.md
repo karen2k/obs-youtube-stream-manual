@@ -72,7 +72,7 @@
 * В появившемся окне выберите изображения (из [брендбука Сейнт-Твинс](https://drive.google.com/open?id=1kbxQFG45T3P1jvFg-KhUvCrDfPbSDekx)), настройте слайдшоу по вашему вкусу и нажмите "Ок" / "Ok"
 * Растяните слайдшоу на весь экран
 
-### Настройка фона трансляции
+### Показ статистики в трансляции трансляции
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 * В разделе "Источники" / "Sources" в нижней части окна программы нажмите на кнопку "+"
@@ -106,6 +106,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3ODM4ODc3LC0xNzc5MDQyNzA4LC0xMT
-c4NjExNzYyLDE5NjY0MTAwOCwtNTY4MDYzODU3XX0=
+eyJoaXN0b3J5IjpbLTk1MzQwODcxOSwtMTc3OTA0MjcwOCwtMT
+E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
 -->
