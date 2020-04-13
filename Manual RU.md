@@ -40,11 +40,12 @@
 
 ### Перед запуском
 
-Не забудьте настроить трансляцию:
+Не забудьте настроить трансляцию в панели управления [Youtube](https://www.youtube.com/live_dashboard) :
 * Название: Детектив Сейнт-Твинс в г. ХХХХ, дело №X
 * Описание: на ваше усмотрение
 * Категория: Развлечения / Хобби и стиль
 * Конфиденциальность: **Доступ по ссылке**
+* Название/ключ трансляции: нажмите 
 
 <a name="faq"></a>
 ## Вопросы и ответы
@@ -62,6 +63,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzOTE4MjEwLDE5NjY0MTAwOCwtNTY4MD
-YzODU3XX0=
+eyJoaXN0b3J5IjpbMTE2OTU5NzcwNSwxOTY2NDEwMDgsLTU2OD
+A2Mzg1N119
 -->
