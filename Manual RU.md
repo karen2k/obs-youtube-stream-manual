@@ -59,9 +59,12 @@
 
 * Откройте программу Open Broadcaster Software, которую вы установили ранее
 * В нижнем правом углу нажмите на кнопку "Настройки" / "Settings"
+* Выберите язык программы
 * В левом меню выберите раздел "Трансляция" / "Stream"
 * Выберите "YouTube / YouTube Gaming" в поле "Сервис" / "Service"
 * Вставьте скопированный на YouTube ключ трансляции в поле "Ключ трансляции" / "Stream Key"
+* В левом меню выберите раздел "Видео" / "Video"
+* В поле ""
 * Сохраните настрйоки, нажав на кнопку "Ок" / "Ok" в правом нижнем углу
 
 ### Настройка фона трансляции
@@ -108,6 +111,6 @@
 * Программа [Open Broadcaster Software](https://obsproject.com) работает только на Windows, MacOS 10.12+ и Linux.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDE1NTY1MSwtMTc3OTA0MjcwOCwtMT
-E3ODYxMTc2MiwxOTY2NDEwMDgsLTU2ODA2Mzg1N119
+eyJoaXN0b3J5IjpbLTE4MzUxMDU3NzgsLTE3NzkwNDI3MDgsLT
+ExNzg2MTE3NjIsMTk2NjQxMDA4LC01NjgwNjM4NTddfQ==
 -->
